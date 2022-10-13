@@ -7,3 +7,4 @@ public class Plugin {
 
     public void onLoad() {}
 }
+ 
